@@ -1,5 +1,4 @@
 # CS-300-SP20
-Some Projects I wrote for CS-300 of UW-Madison
 
  COMP SCI 300 — PROGRAMMING II
  
