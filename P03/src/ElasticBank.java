@@ -5,13 +5,13 @@
 // Course: CS 300, 20 Spring
 //
 // Author: Zijian(Joey)Chen
-// Email: zchen697@wisc.edu
+// Email: 
 // Lecturer's Name: Gary Dahl
 //
 //////////// PAIR PROGRAMMING (MAY SKIP WHEN WORKING INDIVIDUALLY) ////////////
 //
 // Partner Name: Yiran Zhou                
-// Partner Email: zhou433@wisc.edu
+// Partner Email: 
 // Partner Lecturer's Name: Mouna Kacem
 //
 // VERIFY THE FOLLOWING BY PLACING AN X NEXT TO EACH TRUE STATEMENT:
