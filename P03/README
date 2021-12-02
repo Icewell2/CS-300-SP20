@@ -1,0 +1,7 @@
+Overview and Learning Objectives:
+Frequently the provided objects and data types in Java are insufficient for the specific needs of a
+program, and it can simplify your life significantly to create a custom data type tailored exactly to your
+needs. This write-up may be more succinct than usual, as you have already thought about most of this
+problem already when you solved it with arrays.
+This time, you'll be coding up an expandable Piggy Bank (though not infinitely expandable) with much of
+the same functionality as your first programming assignment.
